@@ -1,1 +1,2 @@
-# Zoracles-Smart-Contract
+# Developed Smart Contract of Zoracle system
+
